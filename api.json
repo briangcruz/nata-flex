@@ -1,0 +1,51 @@
+[
+    
+    {
+      "precio": 4480,
+      "id": 1,
+      "title": "Antiparra Aquon",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964347/Productos%20Natacion/antiparra_1_Aquon_nwxflg.png"
+    },
+    {
+      "precio": 28000,
+      "id": 2,
+      "title": "Antiparra Mp Phelps",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964347/Productos%20Natacion/antiparras_3_mp_phelps_muexeo.png"
+    },
+    {
+      "precio": 700,
+      "id": 3,
+      "title": "Gorro latex fashy",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964348/Productos%20Natacion/gorro_3_fashy_hvrfdz.png"
+    },
+    {
+      "precio": 780,
+      "id": 4,
+      "title": "Gorro latex vorgee",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964347/Productos%20Natacion/gorro_2_vorgeepng_iavipj.png"
+    },
+    {
+      "precio": 450,
+      "id": 5,
+      "title": "Tapones Speedo",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964348/Productos%20Natacion/tapones_1_speedo_udlnr5.png"
+    },
+    {
+      "precio": 550,
+      "id": 6,
+      "title": "Tapones con tira Marfed",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964348/Productos%20Natacion/tapones_2_marfed_tzht9b.png"
+    },
+    {
+      "precio": 3500,
+      "id": 7,
+      "title": "Aletas Marfed",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964347/Productos%20Natacion/aletas_1_marfed_zewwnx.png"
+    },
+    {
+      "precio": 7500,
+      "id": 8,
+      "title": "Aletas Speedo",
+      "thumbnailUrl": "https://res.cloudinary.com/dud29j6or/image/upload/v1658964347/Productos%20Natacion/aletas_3_speedo_aoi3dw.png"
+    }
+  ]
